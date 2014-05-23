@@ -1,4 +1,4 @@
 OpenstackServicePluginExample
 =============================
 
-Example of an openstack service plugin.
+Example of an Openstack service plugin.
